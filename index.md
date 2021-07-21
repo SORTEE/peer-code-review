@@ -1,3 +1,3 @@
 # Notebooks
 
-[Code review aim](./code_review_aim.html)
+[Code review resources](./code_review_resources.html)
