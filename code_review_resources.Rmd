@@ -16,3 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 * [OxfordCodeReview](https://github.com/OxfordCodeReviewNet/forum/blob/master/guidelines_for_reviewers.md) Thanks Malika Ihle
 * [ROpenSci community call on peer code review](https://ropensci.org/commcalls/2018-10-16/)
 * [JASA Reproducibility Guide](https://jasa-acs.github.io/repro-guide/)
+* [RBloggers: Best Practices for Code Review: R Edition](https://www.r-bloggers.com/2020/07/best-practices-for-code-review-r-edition/)
+* [Workflow of statistical data analysis](https://www.kirchkamp.de/oekonometrie/pdf/wf-screen2.pdf)
+* [Best Practices for Writing R Code](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/)
