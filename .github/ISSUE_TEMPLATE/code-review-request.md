@@ -1,7 +1,7 @@
 ---
 name: Code Review Request
 about: A code review request template
-title: "[CodeReview]"
+title: "[CodeReviewRequest]"
 labels: Code_Review
 assignees: ''
 
