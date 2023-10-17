@@ -1,1 +1,1 @@
-Sitemap: https://SORTEE.github.io/peer-code-review/sitemap.xml
+Sitemap: https://github.com/SORTEE/peer-code-review/sitemap.xml
