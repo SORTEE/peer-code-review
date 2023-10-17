@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "SORTEE"
+  navbar:
+    left:
+      - icon: github
+        href: https://github.com/SORTEE/peer-code-review
+    right:
+      - hackathon2022.qmd
+      - code_review_resources.qmd
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    # toc: true
