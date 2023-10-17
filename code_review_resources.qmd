@@ -2,7 +2,6 @@
 title: "Further Resources"
 ---
 
-
 * [BES style guide](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
 * [BES 2016 workshop to developed style guide](https://github.com/BES2016Workshop) 
 * [ROpenSci guide for software reviewers](https://devguide.ropensci.org/reviewerguide.html)
