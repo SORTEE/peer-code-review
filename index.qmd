@@ -1,6 +1,5 @@
 ---
 title: "Peer Code Review"
-bibliography: references.bib
 ---
 
 The [Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology](https://www.sortee.org/) is a service organisation dedicated to improving the reliability and transparency of the science of ecology and evolutionary biology science. During annual meetings in 2021 and 2022, we ran discussion groups about peer code review and its role in the scientific workflow. The outcome of these discussions was a peer code review club, that you can learn more about on [GitHub](https://github.com/SORTEE/peer-code-review/issues), and a research paper:
