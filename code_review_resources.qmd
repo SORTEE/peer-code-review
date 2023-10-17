@@ -1,12 +1,6 @@
 ---
-title: "Code Review Aim"
-date: "21/07/2021"
-output: html_document
+title: "Further Resources"
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Resources
 * [BES style guide](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)

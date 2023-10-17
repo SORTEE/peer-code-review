@@ -1,7 +1,9 @@
 ---
-title: "peer-code-review"
+title: "Peer Code Review"
+bibliography: references.bib
 ---
 
-This is a Quarto website.
+The [Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology](https://www.sortee.org/) is a service organisation dedicated to improving the reliability and transparency of the science of ecology and evolutionary biology science. During annual meetings in 2021 and 2022, we ran discussion groups about peer code review and its role in the scientific workflow. The outcome of these discussions was a peer code review club, that you can learn more about on [GitHub](https://github.com/SORTEE/peer-code-review/issues), and a research paper:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+> Ivimey-Cook, E. R., Pick, J. L., Bairos-Novak, K. R., Culina, A., Gould, E., Grainger, M., Marshall, B. M., Moreau, D., Paquet, M., Royauté, R., Sánchez-Tójar, A., Silva, I., & Windecker, S. M. (2023). Implementing code review in the scientific workflow: Insights from ecology and evolutionary biology. *Journal of Evolutionary Biology*, 36, 1347--1356. <https://doi.org/10.1111/jeb.14230>.
+
