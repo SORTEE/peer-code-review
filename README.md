@@ -8,3 +8,7 @@ We have adopted a roving curator model, where a different volunteer organises th
 3. click on the "issues" tab
 4. then click on the green button "new issue"
 5. name the code review, and fill in the requested information, namely your username, the repo, and your aims :nerd_face:
+
+## Notes on contributing to the website
+
+The website builds with a github action, so to make changes you only need to submit a pull request with those changes, and the quarto website will rebuild automatically. 
